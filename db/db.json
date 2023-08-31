@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Class Project",
+        "text": "I learned how to create a Note Taking Application using Express.js",
+        "id": "ac8c2f5b-50c9-42e1-9f80-0c5983b7f9cc"
+    },
+    {
+        "title": "Test Title ",
+        "text": "This note is a test to make sure the application can save notes",
+        "id": "698733cc-b232-4bf6-a612-9d2592d41fc5"
+    },
+    {
+        "title": "Third Time is a Charm ",
+        "text": "I am making sure that the third test in a row works with no issues.",
+        "id": "8795a54a-8de0-4170-b2f6-de87dacafe18"
+    }
+]
